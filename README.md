@@ -1,5 +1,5 @@
 
-# Retail Data Analysis
+# Retail Data Analysis - Real Time Streaming
 
 ## Problem Statement
 The online market has grown tremendously in the past few years. Digitally enabled customers like to shop on the run, and that is the reason why online shopping is one of the most popular online activities worldwide. In 2019, global e-commerce sales amounted to 3.53 trillion USD and are projected to grow to 6.54 trillion USD in 2022.
