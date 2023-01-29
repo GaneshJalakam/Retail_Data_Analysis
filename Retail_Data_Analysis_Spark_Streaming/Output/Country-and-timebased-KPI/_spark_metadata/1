@@ -1,0 +1,2 @@
+v1
+{"path":"hdfs://ip-172-31-82-226.ec2.internal:8020/user/hadoop/Country-and-timebased-KPI/part-00000-1407a30c-8068-45d0-b1bb-2b9421af924c-c000.json","size":0,"isDir":false,"modificationTime":1667844334905,"blockReplication":1,"blockSize":134217728,"action":"add"}

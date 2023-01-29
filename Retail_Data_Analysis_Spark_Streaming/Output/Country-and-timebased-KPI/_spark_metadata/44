@@ -1,0 +1,4 @@
+v1
+{"path":"hdfs://ip-172-31-82-226.ec2.internal:8020/user/hadoop/Country-and-timebased-KPI/part-00000-9f5bd7f5-5249-4b9b-bb38-35d0fd0d4f5e-c000.json","size":0,"isDir":false,"modificationTime":1667849466630,"blockReplication":1,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-172-31-82-226.ec2.internal:8020/user/hadoop/Country-and-timebased-KPI/part-00068-317364fc-2361-40de-82d6-2204956222cf-c000.json","size":168,"isDir":false,"modificationTime":1667849468466,"blockReplication":1,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-172-31-82-226.ec2.internal:8020/user/hadoop/Country-and-timebased-KPI/part-00128-8dbafce6-e2fe-437c-83da-64de66ca3352-c000.json","size":176,"isDir":false,"modificationTime":1667849469668,"blockReplication":1,"blockSize":134217728,"action":"add"}
