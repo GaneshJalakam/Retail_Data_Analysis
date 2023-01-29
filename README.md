@@ -37,8 +37,8 @@ Storing the KPIs (both time-based and time- and country-based) for a 10-minute i
 - Apache Kafka
 - AWS cloud - EMR (Apache Spark and Zookeeper applications installed on it)
 
-## Code Implementation and Documentation
-Refer Python file with PySpark code (Spark streaming code) and its related document present in this repository
+## Code Implementation and Documentations
+**Refer Python file with PySpark code (Spark streaming code) and its related document present in this repository.**
 
 ## Contributors
 - [Ganesh Jalakam](https://github.com/GaneshJalakam)
